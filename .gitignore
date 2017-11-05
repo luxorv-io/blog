@@ -1,0 +1,7 @@
+.idea
+.python-version
+env
+
+*.pyc
+__pycache__/
+.ropeproject
